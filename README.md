@@ -31,5 +31,6 @@ The dataset used for this project is included in this repository. It contains Vr
 - Order information (Order ID, Date, Status, Sales, Quantity)  
 - Product categories and channels (Amazon, Flipkart, Myntra, etc.)  
 - State-wise and demographic details for analysis
-
-**-<a href"https://github.com/kushprajapatimain/Vrinda-Sales-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis(AutoRecovered).xlsx">DATASET </a>**  
+ 
+-📊 **Download / View Dataset:**  
+-[Vrinda Store Data Analysis (Excel file)](https://github.com/kushprajapatimain/Vrinda-Sales-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis(AutoRecovered).xlsx)
