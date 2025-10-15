@@ -82,3 +82,14 @@ The interactive dashboard provides a visual overview of Vrinda Store’s sales p
 
 > The dashboard helps identify key trends, top-performing products, and customer behavior patterns, making it easier to derive actionable insights.
 
+## 🚀 How to Run This Project
+
+1. **Download the Dataset**
+   - [Download Dataset](https://github.com/kushprajapatimain/Vrinda-Sales-Analysis-Dashboard/raw/main/Vrinda%20Store%20Data%20Analysis(AutoRecovered)%20(2).zip)
+
+2. **Open the Excel File**
+   - Open the downloaded file in **Microsoft Excel** (2016 or later recommended).
+
+3. **Explore the Dashboard**
+   - Use the filters for **Month, Channel, Category, Gender, and Age Group**.
+   - Click on charts to interact with the data and analyze trends.
