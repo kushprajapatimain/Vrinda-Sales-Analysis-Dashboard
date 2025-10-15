@@ -125,3 +125,14 @@ To further enhance the Vrinda Store Sales Dashboard and expand its analytical ca
 - 🛒 **Platform Expansion:** Analyze sales from additional e-commerce platforms or offline channels.  
 - 🤖 **Machine Learning Insights:** Implement clustering or segmentation algorithms to better understand customer groups and preferences.  
 - 🌐 **Interactive Web Dashboard:** Develop a web-based dashboard for easy access and sharing across the team.
+
+## 👤 Author & Contact
+
+**Author:** Premnarayan Prajapati
+
+**GitHub:** [https://github.com/kushprajapatimain](https://github.com/kushprajapatimain)  
+**Email:** premnarayanprajapati@example.com  
+**LinkedIn:** [https://www.linkedin.com/in/kush-prajapati-03334937a](https://www.linkedin.com/in/kush-prajapati-03334937a)
+
+> Feel free to reach out for collaboration, feedback, or queries regarding this project.
+
