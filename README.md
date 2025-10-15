@@ -73,7 +73,7 @@ After analyzing Vrinda Store’s 2022 sales data, several key patterns and insig
 
 The interactive dashboard provides a visual overview of Vrinda Store’s sales performance, allowing detailed exploration by different dimensions such as **Month, Channel, Category, Gender, and Age Group**.
 
-"<img width="1388" height="604" alt="Screenshot 2025-10-08 185207" src="https://github.com/user-attachments/assets/3967f797-d904-45b4-8e08-28b6539df686" />
+<img width="1388" height="604" alt="Screenshot 2025-10-08 185207" src="https://github.com/user-attachments/assets/3967f797-d904-45b4-8e08-28b6539df686" />
 
 
 > The dashboard helps identify key trends, top-performing products, and customer behavior patterns, making it easier to derive actionable insights.
