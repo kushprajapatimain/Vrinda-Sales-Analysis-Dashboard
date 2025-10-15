@@ -57,3 +57,15 @@ The project followed a structured approach to ensure clean data, accurate insigh
 5. **Dashboard Creation** – Built an interactive dashboard using charts, slicers, and KPIs for dynamic filtering and easy interpretation.  
 6. **Insights Extraction** – Identified top-performing states, months, and sales channels to support data-driven business strategies.
 
+## 📊 Key Insights
+
+After analyzing Vrinda Store’s 2022 sales data, several key patterns and insights emerged:
+
+- 👩 **Women (64%)** are the dominant customer segment, making significantly more purchases than men (~36%).  
+- 🗓️ **March** saw the highest number of sales and orders, indicating a seasonal peak.  
+- 🛒 **Adult age group (30–49 yrs)** contributes the most to total orders (~50%).  
+- 🗺️ **Maharashtra, Karnataka, and Uttar Pradesh** are the top revenue-generating states (~35% of total sales).  
+- 🏬 **Amazon (35%)**, **Flipkart (22%)**, and **Myntra (23%)** together contribute nearly 80% of total sales.  
+- 📦 **92% of all orders were successfully delivered**, reflecting strong operational efficiency.  
+- 💡 The interactive dashboard allows filtering by **Month, Channel, Category, Gender, and Age Group**, enabling deeper insights.
+
