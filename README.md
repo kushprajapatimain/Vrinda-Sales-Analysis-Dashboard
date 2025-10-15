@@ -34,3 +34,15 @@ The dataset used for this project is included in this repository. It contains Vr
  
 -📊 **Download / View Dataset:**  
 -[Vrinda Store Data Analysis (Excel file)](https://github.com/kushprajapatimain/Vrinda-Sales-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis(AutoRecovered).xlsx)
+
+-## 🛠️ Tools & Technologies Used
+
+This project was developed using the following tools and technologies:
+
+- **Microsoft Excel** – For data cleaning, transformation, and dashboard creation.  
+- **Power Query** – Used for importing and transforming raw sales data.  
+- **Pivot Tables & Charts** – To summarize and visualize key performance indicators (KPIs).  
+- **Excel Dashboard** – Interactive dashboard with slicers for better data exploration.  
+- **Data Visualization Techniques** – Bar charts, line charts, and donut charts for insights.  
+- **Conditional Formatting** – To highlight key metrics and trends effectively.
+
