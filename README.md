@@ -32,8 +32,12 @@ The dataset used for this project is included in this repository. It contains Vr
 - Product categories and channels (Amazon, Flipkart, Myntra, etc.)  
 - State-wise and demographic details for analysis
  
-📊 **Download / View Dataset:**  
--[Vrinda Store Data Analysis (Excel file)](https://github.com/kushprajapatimain/Vrinda-Sales-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis(AutoRecovered).xlsx)
+## 📁 Dataset
+
+You can download the Vrinda Store dataset from the repository here:
+
+[Download Dataset](https://github.com/kushprajapatimain/Vrinda-Sales-Analysis-Dashboard/raw/main/Vrinda%20Store%20Data%20Analysis(AutoRecovered)%20(2).zip)
+
 
 ## 🛠️ Tools & Technologies Used
 
