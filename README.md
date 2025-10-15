@@ -128,11 +128,12 @@ To further enhance the Vrinda Store Sales Dashboard and expand its analytical ca
 
 ## 👤 Author & Contact
 
-**Author:** Premnarayan Prajapati
+**Author:** Kush Prajapati
 
 **GitHub:** [https://github.com/kushprajapatimain](https://github.com/kushprajapatimain)  
-**Email:** premnarayanprajapati@example.com  
+**Email:** kushprajapatimain@gmail.com  
 **LinkedIn:** [https://www.linkedin.com/in/kush-prajapati-03334937a](https://www.linkedin.com/in/kush-prajapati-03334937a)
 
 > Feel free to reach out for collaboration, feedback, or queries regarding this project.
+
 
